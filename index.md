@@ -3,5 +3,5 @@ title: Home
 layout: home
 ---
 
-<h1> Artificial Intelligence </h1> 
+<h1> CSC2E01 - Artificial Intelligence </h1> 
 
