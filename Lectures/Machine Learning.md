@@ -1,7 +1,7 @@
 ---
 layout: page
 parent: Lectures
-title: Introduction
+title: Machine Learning
 nav_order: 2
 usemathjax: true
 ---
