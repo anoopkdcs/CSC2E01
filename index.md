@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 <h1> CSC2E01 - Artificial Intelligence </h1> 
