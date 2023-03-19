@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+has_children: true
 ---
 
 <h1> CSC2E01 - Artificial Intelligence </h1> 
