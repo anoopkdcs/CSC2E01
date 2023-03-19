@@ -1,5 +1,6 @@
-title: CSC2E01
-description: Artificial Intelligence 
-theme: just-the-docs
-
-url: https://anoopkdcs.github.io/CSC2E01/
+title: Yap
+description: Yap Documentation
+baseurl:
+url: "//yap.bmlt.app"
+remote_theme: pmarsceill/just-the-docs
+permalink: pretty
