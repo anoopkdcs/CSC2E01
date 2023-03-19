@@ -1,7 +1,7 @@
-title: CS324
-tagline: CS324 - Large Language Models
-description: Understanding and developing large language models.
-author: Percy Liang
+title: CSC2E01 - Artificial Intelligence 
+tagline: CSC2E01 - Artificial Intelligence 
+description: Artificial Intelligence 
+author: Anoop Kadan
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 markdown: kramdown
 
