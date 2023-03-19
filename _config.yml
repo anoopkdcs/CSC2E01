@@ -1,6 +1,13 @@
-title: Yap
-description: Yap Documentation
-baseurl:
-url: "//yap.bmlt.app"
-remote_theme: pmarsceill/just-the-docs
+title: CS324
+tagline: CS324 - Large Language Models
+description: Understanding and developing large language models.
+author: Percy Liang
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+markdown: kramdown
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+color_scheme: light
+search_enabled: true
+heading_anchors: true
 permalink: pretty
