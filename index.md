@@ -19,8 +19,9 @@ Continuous Assessment = 50% <br/>
 End Semester Assessment = 50% <br/>
 
 ## Continuous Assessment
-[Seminar and Discussion](Seminar.md) = 25% <br/>
-[Short Project](Project.md) = 25% <br/>
+The continuous assessment is based on two activities 
+1. [Seminar and Discussion](Seminar.md) = 25% <br/>
+2. [Short Project](Project.md) = 25% <br/>
 
 
 
