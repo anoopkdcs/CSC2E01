@@ -7,8 +7,8 @@ markdown: kramdown
 
 # Theme settings
 # remote_theme: pmarsceill/just-the-docs@v0.3.3
-url: https://just-the-docs.github.io
-
+# url: https://just-the-docs.github.io
+remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 search_enabled: true
 heading_anchors: true
