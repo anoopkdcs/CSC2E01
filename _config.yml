@@ -7,7 +7,7 @@ markdown: kramdown
 
 # Theme settings
 # remote_theme: pmarsceill/just-the-docs@v0.3.3
-url: https://anoopkdcs.github.io/CSC2E01
+url: https://just-the-docs.github.io
 
 color_scheme: light
 search_enabled: true
