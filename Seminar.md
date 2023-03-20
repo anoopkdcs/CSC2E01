@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lectures
+title: Seminar
 nav_order: 3
 ---
 
