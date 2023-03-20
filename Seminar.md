@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seminar
+title: Seminar and Discussion
 nav_order: 3
 ---
 
