@@ -26,7 +26,7 @@ The continuous assessment is based on two activities
 ## Syllabus
 <b>Introduction to AI:</b> AI problems, scope and applications, Problem space and search, Structures and strategies for State Space Search, Using state space to represent reasoning, Production system and its characteristics.<br/>
 
-<b>Heuristics Search:</b> Control and implementation of state space search, Generate and test, Hill climbing, Depth First search, Breadth First search, Best First search, A*, Problem Reduction, AO*, Constraint Satisfaction, Means-ends analysis, Heuristic in games, Complexity issues.<br/>
+<b>Heuristics Search:</b> Control and implementation of state space search, Generate and test, Hill climbing, Depth First search, Breadth First search, Best First search, A *, Problem Reduction, AO *, Constraint Satisfaction, Means-ends analysis, Heuristic in games, Complexity issues.<br/>
 
 <b>Game Playing:</b> The Minimax search procedure, adding Alpha-beta cut-offs, Additional refinement, Iterative deepening, Planning system and its components, Understanding, Understanding as constrained satisfaction. <br/>
 
