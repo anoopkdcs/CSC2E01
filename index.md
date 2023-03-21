@@ -5,7 +5,7 @@ nav_order: 1
 ---
 {% if site.announcements %}
 {{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline-danger .fs-3 }
+[Announcements](announcements.md){: .btn .btn-outline-danger}
 {% endif %}
 
 <h1> CSC2E01 - Artificial Intelligence </h1> 
