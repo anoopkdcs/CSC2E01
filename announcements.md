@@ -6,7 +6,7 @@ description: A feed containing all of the class announcements.
 ---
 
 # Announcements
-Test data 
+THis is a test data 
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
